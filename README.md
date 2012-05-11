@@ -1,4 +1,4 @@
-pasty-app-web
+Pasty Web App
 =============
 
 The Pasty Web App (Client to pasty-server)
@@ -7,6 +7,7 @@ The Pasty Web App (Client to pasty-server)
 
 More information at http://www.pastyapp.org/  
 
+![Pasty Logo](http://pastyapp.org/images/Pasty_256x256.png)
 
 Contact
 -------
