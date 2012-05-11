@@ -8,3 +8,6 @@ The Pasty Web App (Client to pasty-server)
 More information at http://www.pastyapp.org/  
 
 
+Contact
+-------
+Please direct your questions and suggestions to electricdynamite.apps@gmail.com
